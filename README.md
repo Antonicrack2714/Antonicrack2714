@@ -2,7 +2,6 @@
 - 👀 I’m interested in videogames apps etc
 - 🌱 I’m currently learning whatever id like
 - 💞️ I’m looking to collaborate on something cool
-- 📫 How to reach me 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know that the only thing stopping you from feeling your organs is your brain?  :)
 
