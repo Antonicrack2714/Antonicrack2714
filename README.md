@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Antonicrack2714
-- 👀 I’m interested in videogames apps etc
-- 🌱 I’m currently learning whatever id like
-- 💞️ I’m looking to collaborate on something cool
-- 😄 Pronouns: he/him
+- Hi, I’m @Antonicrack2714
+- I’m interested in videogames apps etc
+- I’m currently learning whatever id like
+- I’m looking to collaborate on something cool
 - ⚡ Fun fact: Did you know that the only thing stopping you from feeling your organs is your brain?  :)
 
 <!---
